@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there, I’m Naveed Shaikh
 
-<!--
-**NonHumanPerson/NonHumanPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ *Exploring this vast world of IT* ✨  
 
-Here are some ideas to get you started:
+🎓 1ST Year BCA Student at Amity University Online  
+🤖 Learning, building, breaking, and securing technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+- Programming: C, Python (learning...)  
+- Web: HTML, CSS, JavaScript (beginner)  
+- Tools: Git, GitHub, Linux, VS Code  
+- Interests: AI, Cybersecurity, Open Source 
+
+---
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitsnaveed@gmail.com)
