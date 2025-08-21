@@ -13,7 +13,7 @@
 ## 👀Interests
 - AI
 - Cybersecurity
-- Open Source
+- Innovation
 - Game Scripting
 - Web development 
 
