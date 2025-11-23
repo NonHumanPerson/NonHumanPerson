@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 1st-year BCA student at Amity University. Since the age of 12, I’ve been fascinated by creating and inventing through code. I started my journey by writing game scripts in Minecraft, where I first learned JavaScript. That early spark grew into a passion for programming, In this AI-driven era🤖, I aspire to innovate and build projects that combine creativity with technology and today I’m exploring the vast world of IT, AI, and Cybersecurity—with the goal of becoming a skilled programmer and problem solver⚡<br>
+###Im a 1st-year BCA student at Amity University. Since the age of 12, I’ve been fascinated by creating and inventing through code. I started my journey by writing game scripts in Minecraft, where I first learned JavaScript. That early spark grew into a passion for programming, In this AI-driven era🤖, I aspire to innovate and build projects that combine creativity with technology and today I’m exploring the vast world of IT, AI, and Cybersecurity—with the goal of becoming a skilled programmer and problem solver⚡<br>
 
 
 ## 🌐 Socials:
